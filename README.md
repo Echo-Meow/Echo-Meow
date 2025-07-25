@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🛠 **Tech Stack**  
 
-<!--
-**Echo-Meow/Echo-Meow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Core Languages & Systems**  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+![ASM](https://img.shields.io/badge/-Assembly-6E4C13?logo=assemblyscript&logoColor=white)  
 
-Here are some ideas to get you started:
+### **Game Engines & Tools**  
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white)  
+- UE5: **Gameplay Framework**, **Blueprints**, **Niagara**, **Multiplayer**  
+- **Performance Optimization** (C++/BP)  
+- **Plugin Development** for Editor  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Low-Level & Embedded**  
+![LLVM](https://img.shields.io/badge/-LLVM-262D3A?logo=llvm)  
+![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake)  
+
+### **Graphics & Compute**  
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl)  
