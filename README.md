@@ -11,9 +11,5 @@
 - **Performance Optimization** (C++/BP)  
 - **Plugin Development** for Editor  
 
-### **Low-Level & Embedded**  
-![LLVM](https://img.shields.io/badge/-LLVM-262D3A?logo=llvm)  
-![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake)  
-
 ### **Graphics & Compute**  
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl)  
